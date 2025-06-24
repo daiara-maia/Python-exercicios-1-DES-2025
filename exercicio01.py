@@ -7,7 +7,7 @@ dia_3 = int(input("dia para atividade 03"))
     
     else:
          soma= dia_01+ dia_02+dia_03
-    print(f"tempo total do projeto:{soma} dias ")ss
+    print(f"tempo total do projeto:{soma} dias ")
 
 
 
